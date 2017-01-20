@@ -39,3 +39,6 @@ C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\W
 C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Properties.Resources.resources
 C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.GenerateResource.Cache
 C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Formulas.resources
+D:\Visual Studio 2015\Projects\WorkNet\WorkNet\obj\Debug\WorkNet.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\Projects\WorkNet\WorkNet\obj\Debug\WorkNet.exe
+D:\Visual Studio 2015\Projects\WorkNet\WorkNet\obj\Debug\WorkNet.pdb
