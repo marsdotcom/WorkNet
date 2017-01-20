@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="10" />
+  <Class Name="WorkNet.Calendar">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Calendar.cs</FileName>
+      <HashCode>IBAEgYAAAAAAAAQACIAgBAAAAgQAAAAQAAAAgEBAADA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkNet.Tabel">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Tabel.cs</FileName>
+      <HashCode>ABAAgYAAQAAAAAAAAAAACAAAAgAEBAAAAAAAggBAAiE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkNet.Workers">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Wokers.cs</FileName>
+      <HashCode>AAQAgAAAAAAAAAIAAAAAQAQAAAEAAQAAAAACAgCAAgQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkNet.Period">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Period.cs</FileName>
+      <HashCode>AAAUgAABAABAAEAACEQAAABCAAQAAAAwAAAAAEAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

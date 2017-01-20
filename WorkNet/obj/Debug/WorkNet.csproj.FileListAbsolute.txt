@@ -1,0 +1,41 @@
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.ResolveComReference.cache
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.exe
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.pdb
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\bin\Debug\WorkNet.exe
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\bin\Debug\WorkNet.pdb
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Form1.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormAddGroup.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormAddWorker.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormCalendar.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormPeriod.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormUpdateGrade.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormWokers.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormReport.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Properties.Resources.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.GenerateResource.Cache
+G:\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.ResolveComReference.cache
+G:\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.exe
+G:\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.ResolveComReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\WorkNet.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\WorkNet.pdb
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\office.dll
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\bin\Debug\office.xml
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Form1.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormAddGroup.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormAddWorker.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormCalendar.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormPeriod.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormUpdateGrade.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormWokers.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.FormReport.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Debug\WorkNet.Formulas.resources

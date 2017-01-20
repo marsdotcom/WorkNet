@@ -1,0 +1,35 @@
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.csproj.ResolveComReference.cache
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.exe
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.pdb
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\bin\Release\WorkNet.exe
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\bin\Release\WorkNet.pdb
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.Form1.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormAddGroup.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormAddWorker.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormCalendar.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormPeriod.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormUpdateGrade.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormWokers.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormReport.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.Properties.Resources.resources
+D:\Documents and Settings\smith\Мои документы\Visual Studio 2005\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.csproj.GenerateResource.Cache
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.csproj.ResolveComReference.cache
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.exe
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.pdb
+G:\Projects\WorkNet_old\WorkNet\bin\Release\WorkNet.exe
+G:\Projects\WorkNet_old\WorkNet\bin\Release\WorkNet.pdb
+G:\Projects\WorkNet_old\WorkNet\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.Form1.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormAddGroup.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormAddWorker.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormCalendar.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormPeriod.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormUpdateGrade.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormWokers.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.FormReport.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.Properties.Resources.resources
+G:\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.csproj.ResolveComReference.cache
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.exe
+C:\Users\1\Documents\Visual Studio 2008\Projects\WorkNet_old\WorkNet\obj\Release\WorkNet.pdb
